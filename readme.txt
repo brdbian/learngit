@@ -6,3 +6,4 @@ lesson 4.modified.
 lesson 5.move to github.
 create a new branch.
 add master.
+add merg.
